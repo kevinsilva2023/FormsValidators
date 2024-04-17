@@ -52,6 +52,7 @@
   color: var(--branco);
   cursor: pointer;
   float: right;
+  border-radius: 35px;
 }
 
 .formulario__erro {
